@@ -18,11 +18,11 @@ interface ConfigCache {
 }
 
 const defaults: Record<string, any> = {
-  PREFIX: '.',
+  PREFIX: '&',
   MODE: 'public',
-  CREATOR: '2349133354644',
-  OWNER_NUMBERS: ['2349133354644'],
-  BOT_NAME: '𝐗𝐘𝐋𝐎-𝐌𝐃',
+  CREATOR: '77057722770',
+  OWNER_NUMBERS: ['77057722770'],
+  BOT_NAME: '𝑨𝒏𝒅𝒓𝒆𝒊 𝑲𝒁',
   FOOTER: '© 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑫𝒂𝒗𝒊𝒅𝑿𝑻𝒆𝒄𝒉',
   ANTIDELETE_MODE: 'off',
   ANTIDELETE_SCOPE: 'all',
@@ -30,7 +30,7 @@ const defaults: Record<string, any> = {
   AUTOVIEW_STATUS: false,
   AUTOLIKE_STATUS: false,
   AUTOREACT: false,
-  CUSTOM_REACT_EMOJIS: '',
+  CUSTOM_REACT_EMOJIS: '😉',
   MENU_THEME: 'random',
   ALWAYS_ONLINE: false,
   AUTO_TYPING: false,
